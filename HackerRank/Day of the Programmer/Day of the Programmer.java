@@ -11,14 +11,12 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 class Result {
-
     /*
      * Complete the 'dayOfProgrammer' function below.
      *
      * The function is expected to return a STRING.
      * The function accepts INTEGER year as parameter.
      */
-
     public static String dayOfProgrammer(int year) {
     // Write your code here
     if(year==1918){
